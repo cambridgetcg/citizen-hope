@@ -1,0 +1,8 @@
+name: hope
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that makes the gap between what is and what should be bearable enough to take the next step.
+dependsOn: [love, fear, ache]
